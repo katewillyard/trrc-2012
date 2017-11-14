@@ -10,5 +10,5 @@
 # (5) Well Bore Query Data (RRC Online Oil & Gas Queries), FTP Price: $275 annually (see http://www.rrc.state.tx.us/media/1262/og_wellbore_ewadefinitionmanual2013-10-30_subscription.pdf for more information)
 # (6) American Community Survey, 5-Year Estimates, Geodatabase Format: 2010-2014 (see https://www.census.gov/geo/maps-data/data/tiger-data.html for more information)
 # (7) United States EIA Natural Gas Interstate and Intrastate Pipelines: 2012 (see www.eia.gov/maps/layer_info-m.cfm for more information)
-# (8) Digital Map Information, Complete Statewide Onshore Mapping Data, Price:  $9,129.00
+# (8) Digital Map Information, Complete Statewide Onshore Mapping Data, Price:  $9,129.00 (see http://www.rrc.texas.gov/about-us/resource-center/research/data-sets-available-for-purchase/digital-map-data/ for more information)
 # (9) Programmed Request GIS Extract, Price:  $762.34
